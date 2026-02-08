@@ -1,5 +1,5 @@
 # Purchase Expense Trend Analysis  
-Data Science / ML Intern Technical Assignment  
+ML Intern Technical Assignment  
 
 ## Project Overview
 This project analyzes purchase invoice data to understand how expenses change over time and identify meaningful financial patterns.
